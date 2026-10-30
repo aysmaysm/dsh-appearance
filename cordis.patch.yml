@@ -1,0 +1,5 @@
+# dsh-appearance bundle patch
+- insert:
+    - id: dsh-appearance
+      name: 'dsh-appearance'
+      config: {}
